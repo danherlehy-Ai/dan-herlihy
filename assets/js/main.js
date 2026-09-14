@@ -1,4 +1,4 @@
-// Dan Herlihy — personal site interactions.
+// Dan Herlehy — personal site interactions.
 // 1. Reveal-on-scroll for .reveal elements.
 // 2. Subtle header shadow after scrolling.
 

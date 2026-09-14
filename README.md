@@ -1,13 +1,13 @@
-# dan-herlihy
+# dan-herlehy
 
-The personal website of **Dan Herlihy** — entrepreneur, e-commerce operator, automation builder, and Thousand Islands boater. Private repo.
+The personal website of **Dan Herlehy** — entrepreneur, e-commerce operator, automation builder, and Thousand Islands boater. Public repo.
 
 ## View it
 
 Open `index.html` in a browser, or serve the folder locally:
 
 ```sh
-cd dan-herlihy && python3 -m http.server 8080
+cd dan-herlehy && python3 -m http.server 8080
 ```
 
 (If GitHub Pages is enabled on this repo, it's also published there.)
